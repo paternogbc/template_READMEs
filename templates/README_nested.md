@@ -11,6 +11,10 @@ Affiliation
 Here you can include a small description of your project.
 
 ## Folder structure
+Diveded in three main components: 
+(1) Analysis: all code and data necessary to reproduce results
+(2) Documents: Manuscript, protocols, thesis, etc. 
+(3) Literature: the references and libraries used for the project. 
 
 ```
 -- analysis
